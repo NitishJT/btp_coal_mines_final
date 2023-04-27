@@ -1,0 +1,11 @@
+.container{
+    display: flex;
+    padding-top: 20px;
+}
+.Sidebar{
+    height: 80vh;
+    padding-top: 20px;
+}
+.card{
+    margin-top: 10px;
+}
